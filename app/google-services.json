@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247410096286",
+    "project_id": "onlinestore-d4b6e",
+    "storage_bucket": "onlinestore-d4b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247410096286:android:6ff3290fb9227cfcf5238f",
+        "android_client_info": {
+          "package_name": "com.crude.onlinestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247410096286-a4c2qa5dj44utptsugo5hse8qq2kpmie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_m-ASY6GXnAzoRFD-GjXdiVjmGE1f2xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247410096286-a4c2qa5dj44utptsugo5hse8qq2kpmie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
